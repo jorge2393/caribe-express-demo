@@ -4,7 +4,7 @@
 <img width="200" alt="Image" src="https://github.com/user-attachments/assets/8b617791-cd37-4a5a-8695-a7c9018b7c70" />
 <br>
 <br>
-<h1>Papaya Contractor Demo</h1>
+<h1>Caribe Express Demo</h1>
 
 <br>
 <br>
@@ -26,7 +26,7 @@ This quickstart demonstrates a simple payroll wallet built with Crossmint and Ra
 ## Setup
 1. Clone the repository and navigate to the project folder:
 ```bash
-git clone https://github.com/jorge2393/papaya-demo.git && cd wallets-quickstart
+git clone https://github.com/jorge2393/caribe-express-demo.git && cd wallets-quickstart
 ```
 
 2. Install all dependencies:
