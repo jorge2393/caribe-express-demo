@@ -417,7 +417,7 @@ export function VirtualCard() {
                       "w-full py-3 px-4 rounded-full text-sm font-medium transition-colors",
                       isFundLoading || !fundAmount || isFundSuccess
                         ? "bg-gray-300 text-gray-500 cursor-not-allowed"
-                        : "bg-[#F93030] text-white hover:bg-[#e02b2b]"
+                        : "bg-[#038de1] text-white hover:bg-[#0279bf]"
                     )}
                     onClick={handleFundCard}
                     disabled={isFundLoading || !fundAmount || isFundSuccess}
@@ -456,11 +456,11 @@ export function VirtualCard() {
                   </p>
                 </div>
                 <Image
-                  src="/Papaya%20Global_idSGOFmIwv_1.png"
-                  alt="Papaya Global"
-                  width={32}
-                  height={32}
-                  className="rounded"
+                  src="/caribeExpress-logo-white.png"
+                  alt="Caribe Express"
+                  width={68}
+                  height={68}
+                  className="absolute top-3.5 right-3.5 rounded z-10"
                 />
               </div>
               <div className="flex justify-between items-end">
