@@ -210,7 +210,7 @@ export function ClaimPayroll() {
             "w-full py-3 px-4 rounded-full text-sm font-medium transition-colors cursor-pointer",
             isClaiming
               ? "bg-gray-200 text-gray-500 cursor-not-allowed"
-              : "bg-[#F93030] text-white hover:bg-[#e02b2b]"
+              : "bg-[#038de1] text-white hover:bg-[#0279bf]"
           )}
         >
           {isClaiming ? "Claiming payroll..." : "Claim Payroll"}
