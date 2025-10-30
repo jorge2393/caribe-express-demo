@@ -54,8 +54,8 @@ export function Dashboard() {
       <div className="w-full max-w-[1600px] mx-auto px-4 pt-3 pb-6 sm:pt-5">
         <div className="flex flex-col items-center mb-6">
           <Image
-            src="/Papaya%20Global_idZ-ZwDhhe_0.svg"
-            alt="Papaya Global logo"
+            src="/caribeExpress-logo.png"
+            alt="Caribe Express logo"
             priority
             width={260}
             height={85}
